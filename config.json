@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-unit-testing",
+      "title": "Testing Python Functions with unittest",
+      "description": "Practice writing automated tests for Python functions with the standard-library unittest module.",
+      "path": "assignments/python-unit-testing",
+      "dueDate": "2026-11-05",
+      "attachments": [
+        {
+          "name": "Functions to Test",
+          "file": "math_utils.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
